@@ -1,0 +1,23 @@
+{
+  "name": "咕嘟 Simmer · 专注计时",
+  "short_name": "咕嘟",
+  "description": "咕嘟咕嘟，煮好二十五分钟。番茄工作法专注计时",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf6ef",
+  "theme_color": "#c8502e",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
